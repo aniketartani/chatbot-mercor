@@ -50,6 +50,7 @@ with open(csv_file_path, "w", newline="", encoding="utf-8") as csv_file:
 # import torch
 from transformers import pipeline
 import pandas as pd
+#MODEL
 tqa = pipeline(task="table-question-answering",model="google/tapas-base-finetuned-wtq")
 table=pd.read_csv("/Users/aniketartani/Documents/chatbot/textbase-main/output_data.csv")
 table = table.astype(str)
