@@ -1,0 +1,15 @@
+Disease,Symptom_1,Symptom_2,Symptom_3,Symptom_4
+possibility of Paralysis (brain hemorrhage) must visit for a brain ct scan, vomiting, headache, weakness_of_one_body_side, altered_sensorium
+possibility of Paralysis (brain hemorrhage)must visit for a brain ct scan, vomiting, headache, weakness_of_one_body_side, altered_sensorium
+possibility of Paralysis (brain hemorrhage)must visit for a brain ct scan, headache, weakness_of_one_body_side, altered_sensorium, high_fever
+possibility of Paralysis (brain hemorrhage)must visit for a brain ct scan, vomiting, weakness_of_one_body_side, altered_sensorium, high_fever
+Paralysis (brain hemorrhage) must visit for a brain ct scan, headache, weakness_of_one_body_side, altered_sensorium, weight_loss
+possibility of Paralysis (brain hemorrhage) must visit for a brain ct scan, vomiting, weakness_of_one_body_side, altered_sensorium, weight_loss
+possibility of Paralysis (brain hemorrhage) must visit for a brain ct scan, vomiting, headache, altered_sensorium, weight_loss
+Jaundice,itching, vomiting, fatigue, weight_loss
+Jaundice,itching, vomiting, fatigue, weight_loss
+Jaundice, vomiting, fatigue, weight_loss, high_fever
+Jaundice,itching, vomiting, fatigue, high_fever
+Jaundice,itching, vomiting, fatigue, weight_loss
+"Considering the possibility of Malaria, it is advisable to undergo a blood test.", chills, vomiting, high_fever, sweating
+possibility of heart attact it is advisable to undergo for a heart checkup, vomiting, breathlessness, sweating, chest_pain
