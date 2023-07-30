@@ -1,4 +1,5 @@
-<h1>Industry Growth Analysis with BERT Fine-Tune Model by Aniket Artani</h1>
+<h1>Industry Growth Analysis with BERT (
+tapas-base-finetuned-wtq)by Aniket Artani</h1>
 Welcome to the Industry Growth Analysis code documentation! This code aims to help users analyze the growth percentages of various industries. Using a fine-tuned BERT model, the code allows users to find the industry with the highest or lowest growth on a given day or retrieve the growth percentage of a specific industry.
 
 <h3>Problem Statement</h3>
