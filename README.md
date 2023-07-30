@@ -9,7 +9,7 @@ Find the industry with the lowest growth percentage on a given day.<br>
 Retrieve the growth percentage of a particular industry on a given day.<br>
 
 <h3>Solution Overview</h3>
-To solve the problem, we employed a BERT fine-tuned model, which is a state-of-the-art natural language processing model. We use this model to extract relevant information about industry growth from various sources. The key libraries used in this solution are:<br>
+To solve the problem, we employed a BERT fine-tuned model, which is a state-of-the-art natural language processing model. We use this model to analyze our data.And we used Beautiful soup to extract relevant information(during runtime) about industry growth from various sources. The key libraries used in this solution are:<br>
 
 Transformers: A powerful library by Hugging Face that provides pre-trained NLP models, including BERT.<br>
 Pandas: A versatile library for data manipulation and analysis.<br>
